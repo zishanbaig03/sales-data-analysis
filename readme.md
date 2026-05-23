@@ -212,6 +212,6 @@ If you found this project helpful, feel free to:
 
 # 📬 Contact
 
-GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+GitHub: [https://github.com/yourusername](https://github.com/zishanbaig03)
 
-LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+
